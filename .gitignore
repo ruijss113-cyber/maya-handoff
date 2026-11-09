@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Never commit downloaded reports or partial downloads
+*.pdf
+*.part
+*.cand
+
+# Run artifacts
+*.log
+_maya_manifest.db*
+_quality_report.csv
+_missing_reports.csv
